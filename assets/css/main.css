@@ -4322,8 +4322,8 @@ footer p {
 }
 
 #logo-black-bg {
-  background-color: #000; /* musta tausta */
+  background-color: #00000; /* musta tausta */
 }
 #logo-white-bg {
-  background-color: #FFF; /* musta tausta */
+  background-color: #FFFFF; /* valkoinen tausta */
 }
